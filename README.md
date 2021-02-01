@@ -50,8 +50,15 @@ D. Values :
 E. Manifest :
   - AndroidManifest.xml
   
-F. Berikut Video saat saya Running di Android Studio :
+F. Screenshoot Aplikasi
+  - RKSTA1 - 1.jpeg
+  - RKSTA1 - 2.jpeg
+  - RKSTA1 - 3.jpeg
+  - RKSTA1 - 4.jpeg
+  - RKSTA1 - 5.jpeg
+  
+G. Berikut Link Video saat saya Running di Android Studio :
 
-
+https://drive.google.com/drive/u/0/folders/1S-CWUPVDYZRnn_jJiV9WkQwRBhNAD6zn
 
   
